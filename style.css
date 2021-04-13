@@ -1,0 +1,44 @@
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+#newTask{
+    height: 35px;
+    width: 80%;
+}
+button{
+    height: 35px;
+    background-color:white;
+    color:black;
+    font-size: 1.2rem;
+    border: none;
+        }
+body{
+    
+    color <strong>:black;
+    text-align: left;
+    font-size: 300px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight:bold;
+}
+h1{
+    position: relative;
+}
+.bg{
+    background-image: url("branco.jpg");
+    background-repeat: no-repeat;
+   
+
+}
+
+#list{
+    padding: 30px;
+    list-style: none;
+
+}
+
+#dt{
+    padding: 30px;
+    text-align: left;
+}
